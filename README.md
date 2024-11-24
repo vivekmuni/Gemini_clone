@@ -59,4 +59,4 @@ To run Gemini Clone locally, follow these steps:
    First, clone the project to your local machine:
 
    ```bash
-   git clone <>
+   git clone <https://github.com/vivekmuni/Gemini_clone>
